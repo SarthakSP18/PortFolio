@@ -39,7 +39,7 @@ function Footer() {
                 <FaInstagram size={24} />
               </a>
               <a
-                href="www.linkedin.com/in/sarthak-pomane-4253b4259"
+                href="https://www.linkedin.com/in/sarthak-pomane-4253b4259/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn"
