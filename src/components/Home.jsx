@@ -51,7 +51,7 @@ function Home() {
                     </a>
                   </li>
                   <li>
-                    <a href="www.linkedin.com/in/sarthak-pomane-4253b4259" target="_blank">
+                    <a href="https://www.linkedin.com/in/sarthak-pomane-4253b4259/" target="_blank">
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>
